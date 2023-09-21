@@ -29,7 +29,7 @@ En somme, le fichier que vous allez rédiger sera lui-même la solution complèt
 
 
 
-## Étape 1 - Créer le repo sur Github, puis le cloner : Réalisé
+## Étape 1 - Créer le repo sur Github, puis le cloner : *Réalisé*
 
 On commence par cliquer sur le bouton O'Challenge pour générer le repo, mais si vous lisez ceci, c'est que c'est déjà fait.
 
@@ -40,7 +40,7 @@ Une fois le repo généré sur l'orga de la promo, on le clone sur sa machine av
 
 
 
-## Étape 2 - Supprimer le dossier `.git/` : un peu plus complexe mais fait
+## Étape 2 - Supprimer le dossier `.git/` : `un peu plus complexe mais fait`
 
 Une fois le projet cloné sur votre machine, on se rend dans le dossier (avec le Terminal Git Bash de préférence).
 Dans le dossier du projet on va complètement supprimer (toujours avec le terminal) le dossier `.git/`.
